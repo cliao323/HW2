@@ -1,0 +1,9 @@
+How to connect:telnet localhost [port]
+
+/Q     Quit chatroom
+/T     Server test
+/N     <name> Change name
+/PM  <reference> <message> Send private message
+/AN  <message> Send announcement
+/O   Show online clients
+
